@@ -1,0 +1,7 @@
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.csproj.AssemblyReference.cache
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.AssemblyInfoInputs.cache
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.AssemblyInfo.cs
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.csproj.CoreCompileInputs.cache
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.MvcApplicationPartsAssemblyInfo.cs
+/Users/hampus/Desktop/Projekt GIthub/Commander/obj/Debug/net5.0/Commander.MvcApplicationPartsAssemblyInfo.cache
