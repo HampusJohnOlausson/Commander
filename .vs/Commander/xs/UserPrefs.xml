@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{94A3845F-E336-4777-A84F-B65DF9B9A289}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/MockCommanderRepo.cs">
     <Files>
       <File FileName="Data/ICommanderRepo.cs" Line="12" Column="2" />
       <File FileName="Data/MockCommanderRepo.cs" Line="17" Column="30" />
@@ -10,10 +10,8 @@
         <State name="__root__">
           <Node name="Commander" expanded="True">
             <Node name="Commander" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="MockCommanderRepo.cs" selected="True" />
-              </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Properties" selected="True" />
             </Node>
           </Node>
         </State>
