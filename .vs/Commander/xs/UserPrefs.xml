@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{94A3845F-E336-4777-A84F-B65DF9B9A289}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Data/ICommanderRepo.cs" Line="12" Column="2" />
       <File FileName="Data/MockCommanderRepo.cs" Line="25" Column="2" />
       <File FileName="Models/Command.cs" Line="1" Column="1" />
       <File FileName="Controllers/CommandsController.cs" Line="17" Column="38" />
       <File FileName="Startup.cs" Line="41" Column="25" />
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +16,11 @@
           <Node name="Commander" expanded="True">
             <Node name="Commander" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="MockCommanderRepo.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
