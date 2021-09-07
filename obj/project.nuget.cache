@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ncg0XrnOpqZhCk1Y7SWyjvF3OLoKF/aOqyYb4fXzVRbjlRGTQaJqsD5chqxV/mVXc2Sfh/wxrHkAp1oq5LziLQ==",
+  "dgSpecHash": "YksvVJjegyAhaUwa5OL++FBmRGv738YJwbYZGWhTEe05j6+jQ9wDkBf7EqPROPIA0bBmITPaatblOxJ16dTeyw==",
   "success": true,
   "projectFilePath": "/Users/hampus/Desktop/Projekt GIthub/Commander/Commander.csproj",
   "expectedPackageFiles": [
+    "/Users/hampus/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/hampus/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/hampus/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/hampus/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -71,7 +73,7 @@
     "/Users/hampus/.nuget/packages/system.private.datacontractserialization/4.3.0/system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/system.private.uri/4.3.2/system.private.uri.4.3.2.nupkg.sha512",
     "/Users/hampus/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
-    "/Users/hampus/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/hampus/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "/Users/hampus/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
