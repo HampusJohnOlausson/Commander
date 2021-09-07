@@ -14,7 +14,7 @@
         "outputPath": "/Users/hampus/Desktop/Projekt GIthub/Commander/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hampus/.config/NuGet/NuGet.Config"
+          "/Users/hampus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
