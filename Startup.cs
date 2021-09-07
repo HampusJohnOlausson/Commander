@@ -29,7 +29,7 @@ namespace Commander
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<CommanderContext>(opt => opt.UseSqlServer
-            (Configuration.GetConnectionString("CommanderConnection")));
+                (Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddControllers();
 
