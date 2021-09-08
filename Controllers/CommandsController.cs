@@ -40,11 +40,14 @@ namespace Commander.Controllers
             return NotFound();
        }
 
-       //[HttpPost] 
-       //public ActionResult <> AddCommand()
-       //{
-
-       //}
+       [HttpPost] 
+       public ActionResult <CommandReadDto> CreateCommand(CommandCreateDto commandCreateDto)
+       {
+           var commandModel = _mapper.Map<Command>(commandCreateDto);
+           _repository.CreateCommand(commandModel);
+           
+           return Ok(commandModel);
+       }
 
        //[HttpDelete()]
   
